@@ -26,9 +26,15 @@
 
 ---
 
+# Hang on, my dress wants to say "Hi!".
+
+---
+
 # But today I'm not here to talk about that
 
 ![inline](GIFS/calculon-nooooo.jpg)
+
+(But come ask questions later!)
 
 ---
 
@@ -192,7 +198,7 @@ Destructuring makes sense when you learn how arrays work!
 
 ---
 
-## So it turns out every time your math teacher made you do things the hard way, them taught you a formula? That **was** for your own good.
+## So it turns out every time your math teacher made you do things the hard way, then taught you a formula? That **was** for your own good.
 
 ![inline](GIFS/dog-not-impressed.jpg)
 
@@ -218,6 +224,16 @@ We need to change the way we think about code reviews from this:
 
 ---
 
+# How?
+
+* Create a code standard
+* Publicize it
+* Use the tools (JSHint, ESLint, whatever!)
+* Code reviews as a team exercise
+* Encourage mentoring and create learning opportunities
+
+---
+
 # But why do we care about new developers?
 
 ---
@@ -232,6 +248,8 @@ We need to change the way we think about code reviews from this:
 
 ---
 
+# The problem with problems
+
 We don't solve some **really important** problems because we don't have the perspective to be aware they exist or solve them in a way that actually helps those that are affected
 
 ---
@@ -239,6 +257,8 @@ We don't solve some **really important** problems because we don't have the pers
 # More developers = more diversity = more perspective = BETTER SOLUTIONS.
 
 ---
+
+# So let's do our part
 
 We need to think more about how to make our code more readable, more understandable, and reach out to new developers.
 
